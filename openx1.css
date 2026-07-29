@@ -1,0 +1,14 @@
+/*
+ OpenX1 Jellyfin Theme
+ Version 1.0
+*/
+
+@import url("variables.css");
+@import url("layout.css");
+@import url("header.css");
+@import url("sidebar.css");
+@import url("cards.css");
+@import url("player.css");
+@import url("livetv.css");
+@import url("login.css");
+@import url("animations.css");
