@@ -1,1 +1,52 @@
+.skinHeader {
 
+height:72px!important;
+
+background:
+
+linear-gradient(
+
+180deg,
+
+rgba(3,21,34,.95),
+
+rgba(3,21,34,.65)
+
+)!important;
+
+
+backdrop-filter:
+
+blur(18px);
+
+
+border-bottom:
+
+1px solid rgba(255,255,255,.08);
+
+}
+
+
+/* Header buttons */
+
+.headerButton {
+
+border-radius:
+
+50%;
+
+
+transition:
+
+.2s ease;
+
+}
+
+
+.headerButton:hover {
+
+background:
+
+var(--x1-blue)!important;
+
+}
