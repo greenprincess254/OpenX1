@@ -1,1 +1,29 @@
+:root {
 
+    /* OpenX1 Colors */
+
+    --x1-background:#031522;
+    --x1-panel:#092640;
+    --x1-panel-light:#12395f;
+
+    --x1-blue:#0099ff;
+    --x1-blue-hover:#35b5ff;
+
+    --x1-text:#ffffff;
+    --x1-muted:#b9cce0;
+
+
+    /* UI */
+
+    --x1-radius:18px;
+
+    --x1-shadow:
+    0 10px 30px rgba(0,0,0,.55);
+
+
+    /* Transparency */
+
+    --x1-glass:
+    rgba(8,30,55,.85);
+
+}
