@@ -1,0 +1,123 @@
+/*
+================================================
+ OpenX1 Hero Banner
+ Version 1.1
+================================================
+*/
+
+
+/* Home page hero area */
+
+.homePage .itemsContainer {
+
+    padding-top:20px;
+
+}
+
+
+/* Large backdrop images */
+
+.backdropImage {
+
+    border-radius:20px;
+
+    overflow:hidden;
+
+}
+
+
+
+/* Dark cinematic overlay */
+
+.backdropImage:after {
+
+    content:"";
+
+    position:absolute;
+
+    inset:0;
+
+
+    background:
+
+    linear-gradient(
+
+    90deg,
+
+    rgba(3,21,34,.95),
+
+    rgba(3,21,34,.45),
+
+    transparent
+
+    );
+
+}
+
+
+
+/* Details text */
+
+.detailPagePrimaryContainer {
+
+    text-shadow:
+
+    0 3px 15px rgba(0,0,0,.8);
+
+}
+
+
+
+/* Primary buttons */
+
+.emby-button {
+
+    border-radius:25px!important;
+
+    padding:
+
+    12px 28px!important;
+
+
+    background:
+
+    #0099ff!important;
+
+
+    color:white!important;
+
+
+    font-weight:700;
+
+}
+
+
+
+.emby-button:hover {
+
+    background:
+
+    #35b5ff!important;
+
+
+    transform:
+
+    scale(1.05);
+
+}
+
+
+
+/* Secondary buttons */
+
+.button-flat {
+
+    border-radius:
+
+    25px!important;
+
+    background:
+
+    rgba(255,255,255,.12)!important;
+
+}
