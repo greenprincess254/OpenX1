@@ -1,1 +1,54 @@
+/*
+=========================================
+ OpenX1 Content Rows
+=========================================
+*/
 
+
+.itemsContainer {
+
+    gap:20px!important;
+
+}
+
+
+/* Section titles */
+
+.sectionTitle {
+
+    font-size:28px!important;
+
+    font-weight:700!important;
+
+    color:white!important;
+
+    margin-left:20px;
+
+}
+
+
+/* Media cards spacing */
+
+.itemsContainer > .cardBox {
+
+    margin-right:18px;
+
+}
+
+
+/* Bigger TV interface cards */
+
+.cardBox {
+
+    min-width:180px;
+
+}
+
+
+/* Hover animation */
+
+.cardBox:hover {
+
+    z-index:5;
+
+}
