@@ -1,1 +1,93 @@
+.mainDrawer {
 
+background:
+
+linear-gradient(
+
+180deg,
+
+#061b31,
+
+#092640
+
+)!important;
+
+
+width:
+
+280px!important;
+
+}
+
+
+/* Menu items */
+
+.navMenuOption {
+
+margin:
+
+8px;
+
+
+height:
+
+55px;
+
+
+border-radius:
+
+14px;
+
+
+font-size:
+
+17px;
+
+
+transition:
+
+.25s ease;
+
+}
+
+
+/* Hover */
+
+.navMenuOption:hover {
+
+
+background:
+
+rgba(0,153,255,.25)!important;
+
+
+transform:
+
+translateX(5px);
+
+}
+
+
+/* Selected */
+
+.navMenuOption-selected {
+
+
+background:
+
+linear-gradient(
+
+90deg,
+
+#0099ff,
+
+#006dcc
+
+)!important;
+
+
+box-shadow:
+
+0 0 20px rgba(0,153,255,.5);
+
+}
