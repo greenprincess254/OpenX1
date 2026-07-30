@@ -1,0 +1,51 @@
+body {
+
+background:
+
+linear-gradient(
+135deg,
+#031522,
+#061d35
+)!important;
+
+
+color:white!important;
+
+font-family:
+
+"Segoe UI",
+Inter,
+Arial,
+sans-serif;
+
+}
+
+
+/* Main Pages */
+
+.page {
+
+background:
+
+transparent!important;
+
+}
+
+
+/* Dialog Windows */
+
+.dialog {
+
+background:
+
+var(--x1-panel)!important;
+
+border-radius:
+
+var(--x1-radius)!important;
+
+box-shadow:
+
+var(--x1-shadow);
+
+}
