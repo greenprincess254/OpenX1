@@ -1,1 +1,44 @@
+/*
+=========================================
+ OpenX1 Home Page
+=========================================
+*/
 
+
+.homePage {
+
+    background:
+
+    linear-gradient(
+
+    180deg,
+
+    transparent,
+
+    #031522
+
+    );
+
+}
+
+
+/* Increase spacing */
+
+.homePage .sections {
+
+    padding:
+
+    20px;
+
+}
+
+
+/* Make rows feel like TV interface */
+
+.verticalSection {
+
+    margin-bottom:
+
+    35px!important;
+
+}
